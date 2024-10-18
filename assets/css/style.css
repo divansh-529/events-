@@ -358,8 +358,15 @@
  }
 
  .image-section-3 {
-     max-width: 315px;
+
      margin-bottom: 13px;
+     width: 100%;
+ }
+
+ .image-parent-section-3 {
+     max-width: 315px;
+
+
  }
 
  .text-of-card-sec-3 {
