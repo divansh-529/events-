@@ -1,0 +1,27 @@
+:root {
+    --fs-xl: 48px;
+    --fs-2lg: 35px;
+    --fs-lg: 25px;
+    --fs-2md: 18px;
+    --fs-md: 16px;
+    --fs-sm: 14px;
+
+
+    @media (max-width:768px) {
+        --fs-xl: 40px;
+        -fs-2lg: 30px;
+        --fs-lg: 20px;
+        --fs-2md: 15px;
+        --fs-md: 14px;
+        --fs-sm: 12px;
+    }
+
+    @media (max-width:586px) {
+        --fs-xl: 28px;
+        -fs-2lg: 24px;
+        --fs-lg: 16px;
+        --fs-2md: 12px;
+        --fs-md: 12px;
+        --fs-sm: 10px;
+    }
+}
