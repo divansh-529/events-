@@ -1,4 +1,5 @@
 :root {
+    --fs-2xl: 65px;
     --fs-xl: 48px;
     --fs-2lg: 35px;
     --fs-lg: 25px;
@@ -8,6 +9,7 @@
 
 
     @media (max-width:768px) {
+        --fs-2xl: 54px;
         --fs-xl: 40px;
         -fs-2lg: 30px;
         --fs-lg: 20px;
@@ -17,8 +19,9 @@
     }
 
     @media (max-width:586px) {
+        --fs-2xl: 38px;
         --fs-xl: 28px;
-        -fs-2lg: 24px;
+        --fs-2lg: 24px;
         --fs-lg: 16px;
         --fs-2md: 12px;
         --fs-md: 12px;
