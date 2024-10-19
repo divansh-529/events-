@@ -1167,7 +1167,7 @@
          height: 5px;
          background-color: white;
          border-radius: 3px;
-         transition: all 200ms linear;
+         transition: all 400ms linear;
      }
 
      input:checked~.box2 {
