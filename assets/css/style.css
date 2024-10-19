@@ -114,6 +114,14 @@
      justify-content: space-between;
  }
 
+ .pointer-evnt-none {
+     pointer-events: none;
+ }
+
+ .pointer {
+     cursor: pointer;
+ }
+
  .mt-45 {
      margin-top: 45px;
  }
